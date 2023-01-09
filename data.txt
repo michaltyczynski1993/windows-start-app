@@ -1,0 +1,3 @@
+Start C:\\Users\\mtycz\\AppData\\Local\\gb_studio\\gb-studio.exe
+Start C:\ProgramData\Microsoft\Windows\"Start Menu"\Programs\Audacity.lnk
+Start C:\Users\mtycz\Desktop\test.xls
